@@ -5,4 +5,4 @@
 
 
 ## Example
-- [textSummary > README.md](https://github.com/000xor1/VTTS/tree/master/module/textSummary)
+- [textSummary > README.md](https://github.com/000xor1/VTTS/tree/master/modules/textSummary)
