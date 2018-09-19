@@ -12,3 +12,4 @@
 
 -  [Encoder-Decoder Deep Learning Models for Text Summarization](https://machinelearningmastery.com/encoder-decoder-deep-learning-models-text-summarization/)
 - [A Gentle Introduction to Text Summarization](https://machinelearningmastery.com/gentle-introduction-text-summarization/)
+- [Example: Text summarization width tensorflow ](https://github.com/dongjun-Lee/text-summarization-tensorflow)
